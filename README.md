@@ -1,7 +1,10 @@
-# Deep-Learning-Resources
+# Machine-Learning-&-Deep-Learning-Resources
 The above list tries to map the resources for Learning the Concepts of Deep Learning Tools like TensorFlow and Keras in a chronological order.
 
-## 1. Deep Learning School 2016 (Sept,24-25)
+## 1. SciPy2016 (July,11-17)
+(https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
+
+## 2. Deep Learning School 2016 (Sept,24-25)
 (https://www.bayareadlschool.org)
 These talks were a part of the Deep Learning School.
 
@@ -18,7 +21,10 @@ These talks were a part of the Deep Learning School.
 11. [Sequence to Sequence Deep Learning (Quoc Le, Google)](https://youtu.be/G5RY_SUJih4)
 12. [Foundations and Challenges of Deep Learning (Yoshua Bengio)](https://youtu.be/11rsu_WwZTc)
 
-## 2. Tensor Flow Developer Summit 2017 (Feb,15)
+## 3. Tensor Flow Developer Summit 2017 (Feb,15)
 (https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
-## 3. Siraj Rival's YouTube Channel ()
+## 4. Siraj Rival's YouTube Channel ()
+(https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+## 5. 
