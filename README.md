@@ -14,9 +14,9 @@ These talks were a part of the Deep Learning School.
 7. [Deep Reinforcement Learning (John Schulman, OpenAI)](https://youtu.be/PtAIh9KSnjo)
 8. [Theano Tutorial (Pascal Lamblin, MILA)](https://youtu.be/OU8I1oJ9HhI)
 9. [Deep Learning for Speech Recognition (Adam Coates, Baidu)](https://youtu.be/g-sndkf7mCs)
-10.[Torch Tutorial (Alex Wiltschko, Twitter)](https://youtu.be/L1sHcj3qDNc)
-11.[Sequence to Sequence Deep Learning (Quoc Le, Google)](https://youtu.be/G5RY_SUJih4)
-12.[Foundations and Challenges of Deep Learning (Yoshua Bengio)](https://youtu.be/11rsu_WwZTc)
+10. [Torch Tutorial (Alex Wiltschko, Twitter)](https://youtu.be/L1sHcj3qDNc)
+11. [Sequence to Sequence Deep Learning (Quoc Le, Google)](https://youtu.be/G5RY_SUJih4)
+12. [Foundations and Challenges of Deep Learning (Yoshua Bengio)](https://youtu.be/11rsu_WwZTc)
 
 ## 2. Tensor Flow Developer Summit 2017 (Feb,15)
 (https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
